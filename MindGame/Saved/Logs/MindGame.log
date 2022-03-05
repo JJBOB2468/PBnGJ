@@ -1249,3 +1249,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.05-18.36.59:290][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.05-18.36.59:295][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
 [2022.03.05-18.36.59:329][377]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.05-18.43.38:930][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.05-18.43.38:933][835]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/L_BrainMap' took 0.028
+[2022.03.05-18.43.38:933][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter] ([4] browsable assets)...
+[2022.03.05-18.43.38:942][835]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.03.05-18.43.38:950][835]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.03.05-18.43.38:950][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter]
+[2022.03.05-18.43.39:021][835]LogSavePackage: Moving '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/BP_ThirdPersonCharacter_Auto2B4C57B114F36421C83440197E6F494B1.tmp' to '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2022.03.05-18.43.39:023][835]LogFileHelpers: Auto-saving content packages took 0.090
+[2022.03.05-18.46.01:688][ 91]LogSavePackage: Moving '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/BP_ThirdPersonCharacter4A9EDCA64DF6E01A1D02A9A702312574.tmp' to '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Content/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.03.05-18.46.01:702][ 91]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.03.05-18.46.01:702][ 91]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.03.05-18.46.02:108][133]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.03.05-18.46.02:169][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.03.05-18.46.05:212][451]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.05-18.46.05:219][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.05-18.46.05:219][451]PIE: New page: PIE session: L_BrainMap (5 Mar 2022, 18:46:05)
+[2022.03.05-18.46.05:254][451]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_L_BrainMap
+[2022.03.05-18.46.05:273][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019042s)
+[2022.03.05-18.46.05:274][451]LogAIModule: Creating AISystem for world L_BrainMap
+[2022.03.05-18.46.05:274][451]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2022.03.05-18.46.05:275][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/L_BrainMap.L_BrainMap to /Game/Level/UEDPIE_0_L_BrainMap.L_BrainMap (0.020655s)
+[2022.03.05-18.46.05:300][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.03.05-18.46.05:301][451]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-18.46.05:301][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-18.46.05:301][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.05-18.46.05:301][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.05-18.46.05:301][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.05-18.46.05:301][451]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-18.46.05:306][451]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-18.46.05:306][451]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-18.46.05:319][451]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2022.03.05-18.46.05:319][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-18.46.05:319][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-18.46.05:319][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-18.46.05:319][451]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-18.46.05:319][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-18.46.05:319][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-18.46.05:320][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-18.46.05:320][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-18.46.05:320][451]LogInit: FAudioDevice initialized.
+[2022.03.05-18.46.05:320][451]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_BrainMap'.
+[2022.03.05-18.46.05:327][451]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.05-18.46.05:328][451]LogWorld: Bringing World /Game/Level/UEDPIE_0_L_BrainMap.L_BrainMap up for play (max tick rate 0) at 2022.03.05-18.46.05
+[2022.03.05-18.46.05:329][451]LogWorld: Bringing up level for play took: 0.001676
+[2022.03.05-18.46.05:329][451]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.05-18.46.05:332][451]PIE: Server logged in
+[2022.03.05-18.46.05:332][451]PIE: Play in editor total start time 0.115 seconds.
+[2022.03.05-18.46.21:176][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.46.21:176][344]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_L_BrainMap
+[2022.03.05-18.46.21:176][344]LogWorld: UWorld::CleanupWorld for L_BrainMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-18.46.21:176][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-18.46.21:181][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.05-18.46.21:190][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-18.46.21:212][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-18.46.21:213][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-18.46.21:214][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.05-18.46.21:216][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-18.46.21:219][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.03.05-18.46.21:246][345]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.05-18.48.14:887][164]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::RandomFloatInRange' [The specified module could not be found.]
+[2022.03.05-18.52.15:168][343]LogSlate: Took 0.000504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.05-18.52.48:104][388]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2022.03.05-18.52.48:167][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.05-18.55.07:425][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.03.05-18.55.07:429][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/L_BrainMap' took 0.032
+[2022.03.05-18.55.07:429][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter] ([4] browsable assets)...
+[2022.03.05-18.55.07:439][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.03.05-18.55.07:448][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2022.03.05-18.55.07:448][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter]
+[2022.03.05-18.55.07:532][704]LogSavePackage: Moving '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/BP_ThirdPersonCharacter_Auto33183BFC249EF6972DF47C5B1E73A79D5.tmp' to '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2022.03.05-18.55.07:533][704]LogFileHelpers: Auto-saving content packages took 0.104
+[2022.03.05-19.02.11:187][ 24]LogEditorTransaction: Undo Delete current selection
+[2022.03.05-19.02.11:660][ 40]LogEditorTransaction: Undo Move Node
+[2022.03.05-19.02.12:010][ 56]LogEditorTransaction: Undo Create Pin Link
+[2022.03.05-19.02.12:555][ 84]LogEditorTransaction: Undo Create Pin Link
