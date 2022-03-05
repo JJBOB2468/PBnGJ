@@ -1316,3 +1316,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.05-19.38.19:535][619]LogFileHelpers: Saving map 'L_BrainMap' took 0.133
 [2022.03.05-19.38.19:544][619]AssetCheck: New page: Asset Save: L_BrainMap
 [2022.03.05-19.38.19:544][619]LogContentValidation: Display: Validating World /Game/Level/L_BrainMap.L_BrainMap
+[2022.03.05-19.51.36:988][937]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../ClimaxGameJam/PBnGJ/MindGame/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.03.05-19.51.37:325][938]LogFileManager: Warning: DeleteFile recovered during retry!
