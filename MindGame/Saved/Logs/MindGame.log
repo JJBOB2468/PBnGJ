@@ -1174,3 +1174,146 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.04-23.43.10:042][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.03.04-23.43.10:124][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.03.04-23.50.35:853][407]LogSlate: Took 0.006615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.05-00.41.58:321][247]LogSlate: Took 0.007852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.05-00.43.10:013][779]Cmd: DELETE
+[2022.03.05-00.43.10:013][779]Cmd: ACTOR DELETE
+[2022.03.05-00.43.10:026][779]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.03.05-00.43.10:034][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.03.05-00.43.10:036][779]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.03.05-00.43.12:869][949]Cmd: DELETE
+[2022.03.05-00.43.12:869][949]Cmd: ACTOR DELETE
+[2022.03.05-00.43.12:870][949]LogEditorActor: Deleted Actor: PlayerStart
+[2022.03.05-00.43.12:875][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.05-00.43.12:876][949]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.05-00.43.26:721][778]LogActorFactory: Actor Factory created Plane
+[2022.03.05-00.43.28:205][866]LogActorFactory: Actor Factory created Plane
+[2022.03.05-00.44.25:705][177]LogSlate: Took 0.000643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.05-00.44.34:745][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.05-00.44.34:763][204]LogSavePackage: Moving '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/ThirdPersonExampleMap_Auto125F2B4F34567DD6A2D3E718FDB3B6129.tmp' to '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.03.05-00.44.34:765][204]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.026
+[2022.03.05-00.44.34:765][204]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.03.05-00.45.35:558][587]MapCheck: New page: Map Check
+[2022.03.05-00.45.35:580][587]Cmd: MAP REBUILD ALLVISIBLE
+[2022.03.05-00.45.35:580][587]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.03.05-00.45.35:584][587]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2022.03.05-00.45.35:605][587]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.05-00.45.35:605][587]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.05-00.45.35:605][587]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.05-00.45.35:631][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.05-00.45.35:660][587]LogLevel: Display: Export Material TexCoord Scales took 0.028 seconds.
+[2022.03.05-00.45.35:662][587]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.03.05-00.45.35:667][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.03.05-00.45.35:676][587]LightingResults: New page: Lighting Build - 5 Mar 2022, 00:45:35
+[2022.03.05-00.45.35:783][587]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.03.05-00.45.35:867][587]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.03.05-00.45.35:878][587]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.03.05-00.45.36:406][587]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.03.05-00.45.36:406][587]LogSwarmInterface: [TryOpenConnection] Local Process ID is 34824
+[2022.03.05-00.45.38:176][587]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.03.05-00.45.38:176][587]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.03.05-00.45.38:176][587]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.03.05-00.45.38:176][587]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.03.05-00.45.38:176][587]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.03.05-00.45.38:387][587]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.05-00.45.38:387][587]MapCheck: New page: ThirdPersonExampleMap - 5 Mar 2022, 00:45:38
+[2022.03.05-00.45.38:405][587]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2022.03.05-00.45.38:415][587]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 27.034ms to complete.
+[2022.03.05-00.45.38:418][587]LogEditorBuildUtils: Build time 0:02
+[2022.03.05-00.45.38:544][588]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 62939B7265EE19D074F9D79E7FBB42A6809E52C1), compiling. 
+[2022.03.05-00.45.38:591][588]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.03.05-00.45.38:595][588]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D8FEC1DF8FD2DBB2046C26FFAB8EC0EA2856CFF3), compiling. 
+[2022.03.05-00.45.38:597][588]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.03.05-00.45.38:631][588]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.03.05-00.45.38:631][588]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.03.05-00.45.38:631][588]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.03.05-00.45.38:631][588]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.03.05-00.45.38:631][588]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.05-00.45.38:641][589]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 24B60B88D19FBA316DBEE5D7CD3C4E4E47E5E339), compiling. 
+[2022.03.05-00.45.38:646][589]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.03.05-00.45.38:646][589]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 009404A3B8B08455BB16398882E1A35CB76697F6), compiling. 
+[2022.03.05-00.45.38:649][589]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2022.03.05-00.45.38:694][589]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.03.05-00.45.38:694][589]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.03.05-00.45.38:694][589]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.05-00.45.38:694][589]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.03.05-00.45.38:694][589]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.05-00.45.40:284][590]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.05-00.45.40:284][590]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2022.03.05-00.45.40:284][590]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 4 distinct outputs (50.00%)
+[2022.03.05-00.45.40:284][590]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.05-00.45.40:284][590]LogShaderCompilers: Display: ================================================
+[2022.03.05-00.45.40:909][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.05-00.45.41:587][598]LogSlate: Window 'Message Log' being destroyed
+[2022.03.05-00.45.41:592][598]LogSlate: Window 'Message Log' being destroyed
+[2022.03.05-00.45.43:677][721]Job is a success!
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:      Bricks at depth
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:          1: 9.1% covering 6.2% of volume
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:      Bricks in each level
+[2022.03.05-00.45.43:770][722]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 44 bricks 	 100.0% (Persistent Level)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 512X256)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2022.03.05-00.45.43:938][722]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.05-00.45.43:938][722]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 64X32)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2022.03.05-00.45.43:938][722]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 64X64)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 64X64)
+[2022.03.05-00.45.43:938][722]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2022.03.05-00.45.44:123][722]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2022.03.05-00.45.44:123][722]Lightmass on LAPTOP-NGGJ2SFD: 2.51 sec total, 94 ms importing, 2 ms setup, 539 ms photons, 1.84 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 20.3 sec total, 3.79 sec processing.
+[2022.03.05-00.45.44:123][722]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 13 meshes in 3 LightmapResourceClusters (4.3 Meshes per cluster).
+[2022.03.05-00.45.44:133][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.05-00.45.44:180][722]LogStaticLightingSystem: Illumination: 8.45 sec (117 ms encoding lightmaps, 175 ms encoding shadowmaps)
+[2022.03.05-00.45.44:180][722]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2022.03.05-00.45.44:180][722]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.03.05-00.45.44:193][722]DumpUnbuiltLightIteractions
+[2022.03.05-00.45.44:193][722]Lights with unbuilt interactions: 0
+[2022.03.05-00.45.44:193][722]
+[2022.03.05-00.45.44:193][722]Primitives with unbuilt interactions: 0
+[2022.03.05-00.45.44:250][722]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.03.05-00.45.44:287][723]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.03.05-00.45.44:287][723]MapCheck: New page: ThirdPersonExampleMap - 5 Mar 2022, 00:45:44
+[2022.03.05-00.45.44:287][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.426ms to complete.
+[2022.03.05-00.54.36:039][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.03.05-00.54.36:055][792]LogSavePackage: Moving '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/ThirdPersonExampleMap_Auto230AAB8B248B7D40C29183899248D0285.tmp' to '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.03.05-00.54.36:056][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2022.03.05-00.54.36:057][792]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.03.05-01.04.38:209][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.05-01.04.38:209][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.006
+[2022.03.05-01.14.38:580][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.03.05-01.14.38:581][373]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.005
+[2022.03.05-01.24.38:830][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.03.05-01.24.38:843][582]LogSavePackage: Moving '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/ThirdPersonExampleMap_Auto3F0E6C0864E1928D455F2A8AA5DA176AA.tmp' to '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.03.05-01.24.38:844][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.019
+[2022.03.05-01.24.38:844][582]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2022.03.05-01.24.54:356][503]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.05-01.24.54:423][503]LogSlate: Took 0.000631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.05-01.25.31:822][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewAreaTrigger.NewAreaTrigger
+[2022.03.05-01.25.32:073][503]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 126 classes and 0 folders.
+[2022.03.05-01.25.32:883][503]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2022.03.05-01.25.41:275][992]Cmd: TRANSACTION UNDO
+[2022.03.05-01.25.41:275][992]LogEditorTransaction: Undo Add New Function
+[2022.03.05-01.27.25:051][472]Cmd: TRANSACTION UNDO
+[2022.03.05-01.27.25:051][472]LogEditorTransaction: Undo Add New Event Dispatcher
+[2022.03.05-01.29.01:658][521]BlueprintLog: New page: Compile NewAreaTrigger
+[2022.03.05-01.29.01:692][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.05-01.30.10:677][ 29]LogSlate: Window 'Debug' being destroyed
+[2022.03.05-01.30.10:683][ 29]LogSlate: Window 'Debug' being destroyed
+[2022.03.05-01.33.25:668][108]Cmd: TRANSACTION UNDO
+[2022.03.05-01.33.25:669][108]LogEditorTransaction: Undo Add Variable
+[2022.03.05-01.34.39:189][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.05-01.34.39:207][344]LogSavePackage: Moving '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/ThirdPersonExampleMap_Auto4C9D047314BF56CCEC8D33383BA146189.tmp' to '../../../../../../Users/Jack Cheetham/Documents/GitHub/PBNGJ/PBnGJ/MindGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2022.03.05-01.34.39:209][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.042
+[2022.03.05-01.34.39:209][344]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2022.03.05-01.35.10:524][490]LogCollisionAnalyzer: Opening CollisionAnalyzer...
+[2022.03.05-01.35.13:449][665]LogSlate: Window 'Collision Analyzer' being destroyed
+[2022.03.05-01.35.13:454][665]LogSlate: Window 'Collision Analyzer' being destroyed
