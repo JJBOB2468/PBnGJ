@@ -2516,3 +2516,21 @@ Make sure 'BP_groundenemy_C' has been compiled for  Leap Attack
 [2022.03.06-03.54.27:398][967]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.03.06-03.54.27:398][967]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2022.03.06-03.54.27:398][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-03.56.07:858][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.03.06-03.56.15:519][573]LogSlate: Window 'Save Content' being destroyed
+[2022.03.06-03.56.17:821][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/L_BrainMap" FILE="D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.06-03.56.17:853][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.03.06-03.56.17:888][842]LogSavePackage: Moving 'D:/github/PBnGJ/MindGame/Saved/L_BrainMap20B279794E11ED9026125D9595D22342.tmp' to 'D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap.umap'
+[2022.03.06-03.56.17:896][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/L_BrainMap_BuiltData" FILE="D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap_BuiltData.uasset" SILENT=true
+[2022.03.06-03.56.17:957][842]LogSavePackage: Moving 'D:/github/PBnGJ/MindGame/Saved/L_BrainMap_BuiltData20798FEF4EF3F58B3A012BA15E7C9E86.tmp' to 'D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap_BuiltData.uasset'
+[2022.03.06-03.56.17:966][842]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-03.56.17:966][842]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/L_BrainMap_BuiltData.L_BrainMap_BuiltData
+[2022.03.06-03.56.17:966][842]LogContentValidation: Display: Validating World /Game/Level/L_BrainMap.L_BrainMap
+[2022.03.06-03.56.18:871][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/L_BrainMap" FILE="D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.06-03.56.18:885][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.06-03.56.18:917][949]LogSavePackage: Moving 'D:/github/PBnGJ/MindGame/Saved/L_BrainMapB9A16A134CF7C02BA6D466849DCEE8BC.tmp' to 'D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap.umap'
+[2022.03.06-03.56.18:925][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/L_BrainMap_BuiltData" FILE="D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap_BuiltData.uasset" SILENT=true
+[2022.03.06-03.56.18:989][949]LogSavePackage: Moving 'D:/github/PBnGJ/MindGame/Saved/L_BrainMap_BuiltDataC0A4544D44773B2B59A1E89C9101B197.tmp' to 'D:/github/PBnGJ/MindGame/Content/Level/L_BrainMap_BuiltData.uasset'
+[2022.03.06-03.56.19:003][949]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.06-03.56.19:003][949]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/L_BrainMap_BuiltData.L_BrainMap_BuiltData
+[2022.03.06-03.56.19:003][949]LogContentValidation: Display: Validating World /Game/Level/L_BrainMap.L_BrainMap
